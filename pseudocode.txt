@@ -1,0 +1,110 @@
+ADVENTURE AWAITS!
+
+This is an adventure game that allows the user to choose which path they will take to get to the top of the mountain.
+
+Intro: 
+Welcome the user and retrieve user name 
+
+Directions:
+Spring has sprung and adventure awaits. Your goal in this adventure is to make it to the cabin at the top of the mountain before night. This is a 20 mile hike, so do not rush, but be careful how you use your time. Be ware of the heavy flowing rivers, fresh spring snowfall, animals, and other obstacles that you may encounter. 
+
+Ask the user to:
+Choose the route you want to endure:
+-   Enter A to take the “Terrible Terrain” path if you want to hike the shortest distance, but this is the most treacherous route up. 
+-   Enter B to take the “Simply Safer” path if you want to take the longer, but safer route to the top. 
+
+A
+You have choosen to take the Terrible Terrain path to the top. Be careful!
+
+
+OBSTACLE ONE
+
+Start off by heading North into the dark woods. When you reach mile 4 the path will split. You have the choice of taking the path leading behind the waterfall or the path that leads around the waterfall. Be ware when choosing. The temperatures are cold and the water is rushing. 
+-   Enter A to chose the waterfall route 
+        - You chose to take the risk. As you near the falls, the path is getting muddier. Would you like to turn back or keep going?
+                - Enter A to keep going
+                        - You choose to keep going. Soon the water is above the ankles and the path is unable to continue with unless you become soaked. Would you like to keep going?
+                            - You have made it to the other side, but hypothermia is slowly setting in. You cannot continue on. Please return home and try again tomorrow. END
+                - Enter B to turn back
+                        - You have become damp and cold and lost some time, but you are still able to continue the trek because you were smart and chose to retreat from that path. 
+-   Enter B to go round
+        - You chose to go around the waterfall. Smart choice because the rest of the crew was sent back from the waterfall or did not make it.
+
+
+OBSTACLE TWO
+
+Next you come to a dead end, the only way out is up. There is a rope and a ladder that lead up. Both look a little timeworn, but the only other route is an hour out of the way.  You can either choose to proceed up or take the long route. 
+-   Enter A to proceed up
+        - It looks a little scary, but you can do it. Be careful. Oh no your water fell out of your pack as soon as your reached the top and burst about 30 feet below.
+- Enter B to go around
+        - Turns out you do not have time for this route, you must return to the ladder and rope to get up. 
+        - Enter A to proceed 
+
+
+OBSTACLE THREE
+
+After making it to the top, you are thirsty and need water. What should you do? You check the map. There is a pond right along the path or there is a stream about a mile out of the way. Be careful with the sanitation of the water. 
+-   Enter A to choose the pond
+        - You choose to drink from the pond. After a few sips, your stomach is turning and you are getting dizzy. There was still water bacteria in the water from sitting. You should have chosen the stream. You have to call in medics and are too weak to reach the top tonight.  
+-   Enter B to choose the stream
+        - You have chosen to drink from the heavy flowing stream. Good idea! Although this is further out of the way, there is less bacteria in water that flows. 
+
+
+OBSTACLE FOUR 
+
+You are nearing the top and the snow is getting thick. There was a fresh snow at the top of the mountain from the night before. The sun is still awake, but lowering in the sky. You have to reach camp before the sun sets. Taking the straight up path is risky due to the snow. Would you like to go straight up or around the peak?
+-   Enter A to head straight up
+        - Watch where you are stepping because the snow is thick. Are you sure you want to continue?
+            - Enter Y to continue up
+                - Ut oh, your foot slips and you try to throw your ice pick into the snow, but that makes it worse. An avalanche is happening. You got swept away down the mountain and berried. 
+            - Enter N to backtrack and head around the peak 
+                - Great choice! I know you are tired, but this is the safest bet. Proceed around the peak with caution
+-   Enter B to go around the peak
+        - Great choice! I know you are tired, but this is the safest bet. Proceed around the peak with caution. 
+
+
+OBSTACLE FIVE
+
+You can see the glow of the fire in the cabin at the top. Only about a mile left,  when all of a sudden you hear something like a branch breaking behind you. You slowly turn around…There is a 10 foot bear about 20 feet away. You decide to run, play dead, or fight it. 
+-   Enter A to Run
+        - The snow is so thick and the bear is catching up. There’s no way you can outrun the bear. He catched up and attacks. So close, yet so far from the top. Too injured to continue on. You will not make it today.
+-   Enter B to play Dead
+        - Playing dead is the best option. The bear is still coming towards you, but you stay down in a ball. He sniffs you and sticks out his paw to pet you, but then walks away. You wait a little until he is gone. Then continue on. Few! That was a close one. 
+-   Enter C to fight
+        - You take out your ice pick and slash the bear coming at you. Bad decision. You just made the bear very angry and he fights back and wins. You will not be making it to the top. 
+
+
+FINALLY
+
+It is now dusk and you are cold and scared. You have made it this far, keep it going. Finally you have made it to the top where a warm fire and dinner awaits with companions. 
+
+
+
+
+
+
+
+
+B
+You have choosen to take the Simply Safer path to the top. Better safe than sorry, right?!
+
+
+-   Start off by heading west past the meadows into the canyon. You come across a sign that says be ware, flash floods ahead. The weaterh does look a little iffy, would you rather continue ahead ignoring the signs or  bypass the canyon going an extra 4 miles out of the way?
+o   Canyon: You chose to risk the path of the canyon. The clouds are getting darker and darker. Do you still want to continue?
+•   Yes: 2 miles into the canyon, the skys release. First with the hail, then comes the rain. There is no shelter and no way out. The water gets highter and highter and eventually you are swept up in the strong current. You have lost too much time and are not in healthy enough condition to continue on today.
+•   No: Go back and bypass the canyon
+o   Bypass canyon: Great decision. The path may be a little longer, so you may have to talk a little faster, but this was the smartest choice. 
+-   After detouring arund the canyon and now heading up into the woods, you come across a heavy flowing river. The water only comes up to your waist, but it is rapid and unsteady. You can either try and walk/jump across or build a bridge with wood nearby. 
+o   Walk/jump across: Unfortunately, the river is too wide to jump across, so you step your foot in and first thing you are pulled under by the raging river. Soaked and lost too much time by being pulled a few miles down stream, you have to return home.  
+o   Build a bridge: This may take a little longer, but it is the safest bet. There is only enough wood to make a small bridge. Your pack weighs 70 lbs, but you and your pack probably cant make it. Do you: A. Take only a few things you need or B. Try and throw it across? 
+•   A. Take only a few things you need. Over half way to the top, you take the bare minimum and make it across.
+•   B. You thought you could make it across, but the bag hits off the edge of the other side of the river and gets taken down stream. Left with nothing. Luckily if you are smart, you can still make it. 
+o   You are safely across the bridge, but with little to nothing left. You continue walking and realize you grabbed your water, but forgot any sort of food. Your muscles are tired and need to be fueled before moving on. You see a patch of mushrooms and a raspberry bush. You read that the mushrooms were safe, but there was nothing in the book about rasberries. Even though you hate mushrooms, do you eat those or take a risk on the rasbetties?
+•   Mushrooms: Good choice. Better to be safe then sorry. Hodl your nose and swallow. We only need a little fuel. 
+•   Rasberries: Risky choice. These are not actually raspberries. They are a poisonous berry that required immediate medical attention. You will ave to be medivacked out and can no longer continue on this trek. 
+o   After more hours of hiking, the sun is setting and you become very tired.  There is a shortcut up the face of this rock that you can free climb or you can go around.
+•   A. Climb rock: You are too tired and your foot slips and you are no longer able to hold on. You land about 20 feet below and can not move your legs. yOu have to call medical help and get to a hospital right away. 
+B. Go around: You are tired, but this is the safest bet for you and after seeing the light from the fire in the cabin, you regain a little strength and are able to make it to the top! Finally you have made it to the top where a warm fire and dinner awaits with companions. 
+•   
+
+Either the user made it to the top or had to get taken off the mountain and start again another day.
