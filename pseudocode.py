@@ -17,7 +17,6 @@ print name + ", you are in for quite the adventure!"
 
 
 
-
 def ask_if_continue():
     """ask the user if they would like to accept this mission or exit"""
 
@@ -25,7 +24,6 @@ def ask_if_continue():
     if playing == "exit":
         exit()
     return playing 
-
 
 
 def accept_the_journey(): 
@@ -55,8 +53,6 @@ def accept_the_journey():
     return path_choice
 
 
-
-
 def Obstacle_one_TT():
     """this is the first obstacle the user will come across"""    
 
@@ -75,8 +71,6 @@ def Obstacle_one_TT():
 
         if Continue_through_waterfall == "no":
             print "You have become damp and cold and lost some time, but you are still able to continue the trek because you were smart and chose to retreat from that path."
-
-
 
     else:
         print "You chose to go around the waterfall. Smart choice because the rest of the crew was sent back from the waterfall or did not make it."
@@ -104,7 +98,6 @@ def Obstacle_two_TT():
         """LOOP BACK TO UP!!!!!!!!!!"""
 
 
-
 def Obstacle_three_TT():
     """this is the third obstacle the user will come across"""
 
@@ -127,7 +120,6 @@ def Obstacle_three_TT():
 
 
 def Obstacle_four_TT():
-    
     print "You are nearing the top and the snow is getting thick. There was a fresh snow at the top of the mountain from the night before. The sun is still awake, but lowering in the sky. You have to reach camp before the sun sets. Taking the straight up path is risky due to the snow. Going around may be the safer route."
 
     Obstacle_four_TT = raw_input("Would you like to go straight up?")
@@ -145,7 +137,6 @@ def Obstacle_four_TT():
         if Obstacle_four_TT == "no":
             print "Great choice! I know you are tired, but this is the safest bet. Proceed around the peak with caution."
 
-
     if Continue_obstacle_four_TT == "no":
         print "Great choice! I know you are tired, but this is the safest bet. Proceed around the peak with caution."
 
@@ -153,9 +144,7 @@ def Obstacle_four_TT():
 
 
 
-
 def Obstacle_five_TT():
-    
     print "You can see the glow of the fire in the cabin at the top. Only about a mile left, when all of a sudden you hear something like a branch breaking behind you. You slowly turn around. There is a 10 foot bear about 20 feet away."
 
     Obstacle_five_TT = raw_input("Do you want to run, play dead, or fight the bear?")
@@ -174,10 +163,7 @@ def Obstacle_five_TT():
     if Obstacle_five_TT == "play dead":
         print "Playing dead is the best option. The bear is still coming towards you, but you stay down in a ball. He sniffs you and sticks out his paw to pet you, but then walks away. You wait a little until he is gone. Then continue on. Few! That was a close one."
 
-    
     return False 
-
-
 
 
 def Made_it_to_the_top_TT():
@@ -195,12 +181,6 @@ def Made_it_to_the_top_TT():
 
 """SIMPLY SAFERRRRRRRRR"""
 
-
-
-
-
-
-
 def Obstacle_one_SS():
     
     print "Start off by heading west past the meadows into the canyon. You come across a sign that says be ware, flash floods ahead. The weather does look a little iffy."    
@@ -216,8 +196,6 @@ def Obstacle_one_SS():
         print "Great decision. The path may be a little longer, so you may have to walk a little faster, but this was the smartest choice. "
 
     return False
-
-
 
 
 def Obstacle_two_SS():
@@ -247,8 +225,6 @@ def Obstacle_two_SS_Cross_Bridge():
 
         if Obstacle_two_SS_Cross_Bridge == "B":
             print "You thought you could make it across, but the bag hits off the edge of the other side of the river and gets taken down stream. Left with nothing. Luckily if you are smart, you can still make it. "
-
-
 
 def Obstacle_three_SS():
 
@@ -302,16 +278,11 @@ def Made_it_to_the_top_SS():
 
 
 
-
 def main():
     """Runs the horiscope games"""
 
 
     greet_user()
-
-
-    
-
 
     playing = True
 
@@ -377,8 +348,5 @@ def main():
 
         else:
             print "please enter terrible terrain or simply safer"
-
-
-
 
 main()
