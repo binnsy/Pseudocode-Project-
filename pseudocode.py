@@ -368,7 +368,7 @@ def obstacle_one_SS():
 
 def obstacle_two_SS():
     print("\033[0;30;47m  \n")
-    print "After detouring around the canyon and now heading up into the woods, \nyou come across a heavy flowing river. The water only comes up to your waist, \nbut it is rapid and unsteady. You can either try and walk/jump across \nor build a bridge with wood nearby. \n"
+    print "After detouring around the canyon and now heading up into the woods, \nyou come across a heavy flowing river. The water only comes up to your waist, \nbut it is rapid and unsteady. You can either try and jump across \nor build a bridge with wood nearby. \n"
 
     obstacle_two_SS = raw_input("Would you like to jump across or build a bridge?\n")
 
@@ -496,7 +496,6 @@ def obstacle_four_SS():
 
 def made_it_to_the_top_SS():
     print("\033[1;32;47m  \n")
-    print "It is now dusk and you are cold and scared. \nYou have made it this far, keep it going.\n"
     print "CONGRADULATIONS!! \nFinally you have made it to the top where a warm fire and dinner awaits with companions.\n"
 
     
@@ -580,10 +579,6 @@ def main():
                 continue 
             
             is_game_over = obstacle_four_SS()
-            if is_game_over:
-                continue 
-            
-            is_game_over = obstacle_five_SS()
             if is_game_over:
                 continue 
             
